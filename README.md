@@ -81,18 +81,11 @@ View all customers and room statuses
 5. Display All
 0. Exit
 
-💼 Why This Project is Resume-Worthy
+🧾 Conclusion
 
-This project demonstrates:
+The Hotel Management System project successfully demonstrates the practical application of Object-Oriented Programming principles in C++, combined with effective use of file handling, data structures, and searching & sorting algorithms.
+It models real-world hotel operations such as customer management, room allocation, and checkout procedures in a structured and maintainable way.
 
-Strong grasp of C++ OOP fundamentals
-
-Real-world system modeling
-
-Persistent data handling
-
-Algorithmic thinking using sorting & searching
-
-Clean, maintainable code structure
+This project strengthened my understanding of software design, persistent data storage, and system-level problem solving, and serves as a strong foundation for building more advanced management systems in the future.
 
 
