@@ -44,17 +44,27 @@ Console Application Design
 
 📂 Project Structure
 Hotel-Management-System/
+
 │
+
 ├── main.cpp
+
 ├── rooms.txt          // Auto-generated after first run
+
 ├── customers.txt      // Auto-generated after first run
+
 └── README.md
 
+
 🛠 How to Run the Project
+
 1️⃣ Compile the Program
+
 g++ main.cpp -o hotel
 
+
 2️⃣ Run the Program
+
 ./hotel
 
 
