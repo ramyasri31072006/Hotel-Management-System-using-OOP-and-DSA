@@ -95,7 +95,4 @@ Algorithmic thinking using sorting & searching
 
 Clean, maintainable code structure
 
-🧑‍💻 Author
 
-Ramya Sri Achyuta
-C++ Developer | Software Engineering Student
