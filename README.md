@@ -7,11 +7,17 @@ This project simulates real-world hotel operations including customer management
 🚀 Features
 
 ✔ Add and manage customers
+
 ✔ Add and manage rooms
+
 ✔ Assign rooms based on availability
+
 ✔ Checkout customers and update room status
+
 ✔ Persistent storage using text files
+
 ✔ Sorting & binary search for fast access
+
 ✔ Clean object-oriented design using inheritance and abstraction
 
 🧠 Concepts & Technologies Used
